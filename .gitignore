@@ -7,3 +7,6 @@
 .terraform/
 *.tfstate
 *.tfstate.*
+terraform.tfvars
+*.tfstate*
+.terraform/
